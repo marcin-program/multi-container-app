@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../home/sklep2"
+		}
+	],
+	"settings": {
+		"chatgpt.openOnStartup": true,
+		"chatgpt.runCodexInWindowsSubsystemForLinux": true,
+		"workbench.editor.centeredLayoutFixedWidth": true,
+		"workbench.editor.defaultBinaryEditor": "default",
+		"workbench.editor.limit.enabled": true,
+		"workbench.editor.autoLockGroups": {
+			"default": true,
+			"workbench.editor.chatSession": true,
+			"workbench.editorinputs.searchEditorInput": true,
+			"agentSessionsWelcomePage": true,
+			"notebookOutputEditor": true,
+			"workbench.editorinputs.browser": true,
+			"jupyter-notebook": true,
+			"copilot-chat-replay": true,
+			"ijnb-notebook": true,
+			"repl": true,
+			"imagePreview.previewEditor": true,
+			"workbench.editors.gettingStartedInput": true,
+			"vscode.audioPreview": true,
+			"vscode.videoPreview": true,
+			"jsProfileVisualizer.heapprofile.table": true,
+			"jsProfileVisualizer.cpuprofile.table": true,
+			"protobuf.binaryInspector": true,
+			"decompiled.javaClass": true,
+			"gitlens.rebase": true,
+			"jsProfileVisualizer.heapsnapshot.table": true,
+			"chatgpt.conversationEditor": true,
+			"workbench.input.interactive": true,
+			"mainThreadWebview-markdown.preview": true
+		},
+		"workbench.editor.limit.perEditorGroup": false,
+		"workbench.settings.editor": "json",
+		"powershell.cwd": "sklep2"
+	}
+}
